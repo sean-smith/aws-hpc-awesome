@@ -1,5 +1,9 @@
 # AWSome HPC Resources
 
+<p align="center">
+    <img src="aws.png" alt="drawing" width="300"/>
+</p>
+
 ## Getting Started
 
 * [Create an HPC Cluster](https://sc20.hpcworkshops.com/03-hpc-aws-parallelcluster-workshop.html)
