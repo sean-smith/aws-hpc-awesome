@@ -1,11 +1,11 @@
-### AWSome HPC Resources
+# AWSome HPC Resources
 
+## Getting Started
 
-#### Getting Started
+* [Create an HPC Cluster](https://sc20.hpcworkshops.com/03-hpc-aws-parallelcluster-workshop.html)
+* [Simulations with AWS Batch](https://sc20.hpcworkshops.com/06-aws-batch.html)
 
-* [AWS Account Setup](https://sc20.hpcworkshops.com/)
-
-#### CFD
+## CFD
 
 [Getting Started with CFD](https://cfd-on-pcluster.workshop.aws/)
 
@@ -14,10 +14,11 @@
 * [Ansys Fluent](https://cfd-on-pcluster.workshop.aws/fluent.html)
 * [FDS](https://cfd-on-pcluster.workshop.aws/fds.html)
 
-#### HCLS
+## Healthcare and Life Sciences
 
 * [Gromacs](https://gromacs-on-pcluster.workshop.aws/)
 
-#### Spack
+## Spack
 
 * [Spack Workshop](https://spack-tutorial.workshop.aws/) 
+
